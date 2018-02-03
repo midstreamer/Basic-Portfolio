@@ -122,8 +122,8 @@ table {
   aside {
     position: absolute;
     top: 80px;
-    left: 1225px;
-    width: 293px;
+    left: 1200px;
+    width: 270px;
     height: 160px;
     color: #333;
     background: rgb(255, 255, 255);
@@ -180,9 +180,9 @@ span {
   section {
     position: absolute;
     top: 80px;
-    left: 395px;
-    width: 780px;
-    height: 574px;
+    left: 350px;
+    width: 650px;
+    height: 500px;
     padding: 20px;
     border-spacing: 10px;
     color: #333;
@@ -199,7 +199,7 @@ span {
     position: absolute;
     top: 67px;
     left: 5px;
-    width: 690px;
+    width: 620px;
     height: 54px;
     color: #333;
     background: white;
