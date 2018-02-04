@@ -127,7 +127,7 @@ table {
   aside {
     position: absolute;
     top: 80px;
-    left: 1200px;
+    left: 1225px;
     width: 270px;
     height: 160px;
     color: #333;
@@ -180,7 +180,7 @@ span {
   section {
     position: absolute;
     top: 80px;
-    left: 350px;
+    left: 385px;
     width: 650px;
     height: 500px;
     padding: 20px;
@@ -195,39 +195,11 @@ span {
 
   }
 
-  h2 {
-    position: absolute;
-    top: 67px;
-    left: 5px;
-    width: 620px;
-    height: 54px;
-    color: #333;
-    background: white;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    font-size: 18px;
-    text-align: left;
-
-  }
-
   img {
     float: left;
-    border: 2px solid black;
     margin: 5px 5px 15px 20px;
 }
 
-  p {
-    position: absolute;
-    top: 116px;
-    left: 5px;
-    width: 284px;
-    height: 54px;
-    color: #333;
-    background: #ccc;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    font-size: 18px;
-    text-align: center
-
-  }
   lable{
     display: block;
     float: none;
