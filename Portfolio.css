@@ -70,12 +70,6 @@ table {
     background-size: 100%, 25%;
   }
 
-  .image {
-    padding-left: 100px;
-    padding-top: 30px;
-    border-radius: 4px;
-  }
-
 
 .name {
 
@@ -91,7 +85,7 @@ table {
 }
 
 .topnav {
-  background-color: #ffffff;
+  background-color: white;
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
   width: 100%;
   overflow: hidden;
@@ -133,7 +127,7 @@ table {
   aside {
     position: absolute;
     top: 80px;
-    left: 1225px;
+    left: 1200px;
     width: 270px;
     height: 160px;
     color: #333;
@@ -186,7 +180,7 @@ span {
   section {
     position: absolute;
     top: 80px;
-    left: 385px;
+    left: 350px;
     width: 650px;
     height: 500px;
     padding: 20px;
@@ -217,7 +211,7 @@ span {
 
   img {
     float: left;
-    border: 2px solid white;
+    border: 2px solid black;
     margin: 5px 5px 15px 20px;
 }
 
