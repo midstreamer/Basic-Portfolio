@@ -157,7 +157,6 @@ li {
 
 li a:hover {
     background-color: rgb(255, 255, 255);
-
 }
 
 a {
@@ -242,3 +241,30 @@ span {
     border-radius: 4px;
   }
 
+  @media screen and (max-width: 980px) {
+    nav {width: 200px; float: left;}
+   
+  @media screen and (max-width: 980px) {
+    aside {width: 100%; padding: 20px}
+
+  @media screen and (max-width: 980px) {
+    section {width: 200px; float: left;}
+     
+        
+  @media screen and (max-width: 768px) {
+  nav {width: 200px; float: left;}
+  
+  @media screen and (max-width: 768px) {              
+  aside {width: 100%; padding: 20px;}
+
+  @media screen and (max-width: 768px) {
+  section {width: 200px; float: left;}
+
+  @media screen and (max-width: 640px) {
+  nav {width: 200px; float: left;}
+
+  @media screen and (max-width: 640px) {                
+  aside {width: 100%; padding: 20px;}
+
+  @media screen and (max-width: 640px) {
+    section {width: 200px; float: left;}
